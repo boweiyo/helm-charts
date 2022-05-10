@@ -3,7 +3,7 @@ entries:
   myhelmapp:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2022-05-10T10:36:04.408680072+05:30"
+    created: "2022-05-10T11:05:38.171155829+05:30"
     description: A Helm chart for Kubernetes
     digest: 93b0568542e8ab432328d372d7756f554a7f36c406f3a2f803b3725f6f7c0afa
     name: myhelmapp
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-10T10:36:04.407731692+05:30"
+    created: "2022-05-10T11:05:38.170377661+05:30"
     description: A Helm chart for Kubernetes
     digest: 183d1b668a60689b3815f78950a58a58e27b97f10ae4253ad99a8c4fbeab6cbc
     name: myhelmapp
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://boweiyo.github.io/helm-charts/myhelmapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-10T10:36:04.404866691+05:30"
+generated: "2022-05-10T11:05:38.169406941+05:30"
