@@ -3,12 +3,12 @@ entries:
   myhelmapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-10T09:17:12.958889336+05:30"
+    created: "2022-05-10T10:09:23.220901289+05:30"
     description: A Helm chart for Kubernetes
     digest: 183d1b668a60689b3815f78950a58a58e27b97f10ae4253ad99a8c4fbeab6cbc
     name: myhelmapp
     type: application
     urls:
-    - https://boweiyo.github.io/helm-charts/myhelmapp-0.1.0.tgz
+    - https://boweiyo.github.io/helm-charts/myhelmapp/myhelmapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-10T09:17:12.957621313+05:30"
+generated: "2022-05-10T10:09:23.219966149+05:30"
